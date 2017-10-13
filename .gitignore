@@ -1,0 +1,5 @@
+*.suo
+/src/.vs
+/src/packages
+/src/GreenOneOctopusDeploy.Web/bin
+/src/GreenOneOctopusDeploy.Web/obj
